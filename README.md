@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">HELLO</h1>
 </div>
-<img src="https://imgur.com/a/1n6L9kq">
+
+<img src="https://i.imgur.com/7v7gjOD.png">
 
 <div align="center">
   <a>
